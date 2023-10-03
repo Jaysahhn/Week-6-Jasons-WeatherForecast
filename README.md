@@ -11,7 +11,7 @@ This project demonstrates the usage of Javascript and API calling to create a we
 
 ## Usage
 This is a screenshot of the working webpage
-[Screenshot](Assets\weatherforecast.png)
+[Screenshot](weatherforecast.png)
 
 This screenshot is just incase the previous screenshot doesn't work.
 [Screenshot](https://i.gyazo.com/740d0a6feb128cb77150ea66919424e6.png)

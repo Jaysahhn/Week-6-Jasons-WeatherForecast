@@ -7,7 +7,7 @@ This project demonstrates the usage of Javascript and API calling to create a we
 
 ## Links
 
-<!-- deployed app -->
+https://jaysahhn.github.io/Week-6-Jasons-WeatherForecast/
 
 ## Usage
 This is a screenshot of the working webpage
